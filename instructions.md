@@ -23,10 +23,10 @@ choose one of the following options:
 
 **Option 2: Clean up one of my datasets**	
 
-	a. Load [this]() dataset into an iPython notebook.
+	a. Load [this](https://github.com/PHY3009/assignment_8/blob/master/merged.dat) worm tracker dataset into an iPython notebook.
 	
-	b. In a markdown cell in the notebook clearly explain the problem with the dataset and
-	how you could solve it with regular expressions.
+	b. In a markdown cell in the notebook clearly explain the problem with the dataset 
+	(hint: look at the first column) and how you could solve it with regular expressions.
 	
 	c. Use regular expressions in Python to solve the problem.
 
